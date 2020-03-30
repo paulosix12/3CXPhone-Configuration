@@ -1,2 +1,1 @@
-# paulobondsix12-hotmail.com
-Script para configuração do 3CXPhone
+Script para configuração do 3cxPhone
